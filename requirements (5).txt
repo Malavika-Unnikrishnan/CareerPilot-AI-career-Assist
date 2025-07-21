@@ -1,0 +1,14 @@
+gradio
+fpdf
+google-generativeai
+requests
+flask
+gradio
+PyMuPDF
+edge-tts
+pydub
+google-generativeai
+uuid
+google
+google-genai
+
